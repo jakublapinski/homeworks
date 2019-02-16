@@ -1,8 +1,8 @@
 
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÙàşÌ8¡›»Øˆ-
 Jsquid:S1481"'Remove this unused "p2" local variable.(ÊÅ Ãûÿÿÿÿ8×é¶Øˆ-
 Ysquid:S1854"6Remove this useless assignment to local variable "p2".(ÊÅ Ãûÿÿÿÿ8×é¶Øˆ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÙàşÌ8¡›»Øˆ-
+Tsquid:S1854"6Remove this useless assignment to local variable "p1".(‡éî¥8’çìØˆ-
 qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ş¦ÀI
 Esquid:S1481"'Remove this unused "p1" local variable.(‡éî¥8’çìØˆ-
-Tsquid:S1854"6Remove this useless assignment to local variable "p1".(‡éî¥8’çìØˆ-

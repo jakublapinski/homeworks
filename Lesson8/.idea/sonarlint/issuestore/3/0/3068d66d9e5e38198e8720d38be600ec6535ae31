@@ -1,0 +1,18 @@
+
+Tsquid:S1854"8Remove this useless assignment to local variable "name".(Êšı„ÿÿÿÿÿ
+Esquid:S1481$")Remove this unused "name" local variable.(Êšı„ÿÿÿÿÿ
+Dsquid:S1604/"(Make this anonymous inner class a lambda(³†Üçùÿÿÿÿ
+Xsquid:S2259&"AA "NullPointerException" could be thrown; "opt" is nullable here.(Ø½‹¸
+Tsquid:S1854$"8Remove this useless assignment to local variable "name".(Êšı„ÿÿÿÿÿ
+Dsquid:S1481"(Remove this unused "opt" local variable.(÷‘Š¸ùÿÿÿÿ
+Esquid:S1481")Remove this unused "name" local variable.(Êšı„ÿÿÿÿÿ
+csquid:S00112?"FDefine and throw a dedicated exception instead of using a generic one.(ş˜ÍÎÿÿÿÿÿ
+O
+squid:S1062"9Replace this use of System.out or System.err by a logger.(šèÌæ
+Esquid:S1481A")Remove this unused "name" local variable.(°´²ˆşÿÿÿÿ
+nsquid:S00117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÂŒÿÿÿÿÿ
+Dsquid:S1481L"(Remove this unused "opt" local variable.(É¹µ•şÿÿÿÿ
+Tsquid:S1854A"8Remove this useless assignment to local variable "name".(°´²ˆşÿÿÿÿ
+Ssquid:S1854"7Remove this useless assignment to local variable "opt".(÷‘Š¸ùÿÿÿÿ
+Dsquid:S1604A"(Make this anonymous inner class a lambda(°´²ˆşÿÿÿÿ
+Ssquid:S1854L"7Remove this useless assignment to local variable "opt".(É¹µ•şÿÿÿÿ

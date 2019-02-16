@@ -2,11 +2,11 @@
 [
 squid:S106
 "9Replace this use of System.out or System.err by a logger.(­Û¡îúÿÿÿÿ8‚ØôÛˆ-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ë¦­ÿûÿÿÿÿ8×¨Öİˆ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(“…Ÿñ8éÅÜˆ-
 V
 squid:S106"9Replace this use of System.out or System.err by a logger.(ò‘›ä8¹¡Æ×ˆ-
 V
 squid:S106"9Replace this use of System.out or System.err by a logger.(äØ«ã8¢“†Üˆ-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(“…Ÿñ8éÅÜˆ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ë¦­ÿûÿÿÿÿ8×¨Öİˆ-

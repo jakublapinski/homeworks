@@ -9,3 +9,17 @@ D
 src/figure/Main.java,9/0/9028d9808161b6abb9a73e217ab80824dc624df2
 F
 src/figure/Figure.java,d/6/d6ff0736b950b21607231d13ff23c6715ae1e329
+E
+src/Alcohol/Main.java,d/8/d8e8ddb04a54a938b82335f6a1eb0bb478c5a48d
+H
+src/Alcohol/Alcohol.java,d/f/df0a0fd498995b629f768d3dacedce2040d3685b
+E
+src/Alcohol/Piwo.java,9/1/913d689bf58e3ff01c8af4108c7cd25d9cb00b57
+G
+src/Alcohol/Bottle.java,6/0/603ea9fcbefc3053a7588bf027121b97a0e6995d
+I
+src/Alcohol/PiwoBase.java,9/1/91cb536d43a34ce1dc26965868191c96b956534d
+D
+src/Random/Main.java,7/a/7ae527f5374b4a68e945e2801872ed572bbab84a
+E
+src/Random/Users.json,4/c/4c1d7bff49dde39ed463a85a6612a41cceddab33
