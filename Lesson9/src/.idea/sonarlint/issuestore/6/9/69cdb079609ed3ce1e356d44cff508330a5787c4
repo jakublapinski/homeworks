@@ -1,0 +1,8 @@
+
+Isquid:S1481"-Remove this unused "tbalica2" local variable.(ßÔ³¸þÿÿÿÿ
+Xsquid:S1854"<Remove this useless assignment to local variable "tbalica2".(ßÔ³¸þÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(÷Íª¼ùÿÿÿÿ
+Rsquid:S1854";Remove this useless assignment to local variable "tablica".(Ö›°î
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ì°Õ³
+Csquid:S1481",Remove this unused "tablica" local variable.(Ö›°î
